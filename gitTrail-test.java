@@ -1,6 +1,6 @@
 # ETLbeginners
 
-class HelloWorld 
+class gitTrail 
 { 
 public static void main(String args[]) 
     { 
