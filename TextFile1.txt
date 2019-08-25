@@ -1,3 +1,7 @@
 Hello World !!
 This is a second line in the file.
+<<<<<<< HEAD
 third line in file 3...
+=======
+updated this ...
+>>>>>>> 8fe361bf29f14b71ca19da67031db77da7ecd9a8
