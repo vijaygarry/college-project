@@ -1,2 +1,6 @@
 Created new file.
+<<<<<<< HEAD
 Updated by srushti ...
+=======
+I want to update this now ...!
+>>>>>>> test2
