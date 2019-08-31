@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-This is another file.
-=======
-This is Third file.
-Updated new line.
-New Update of Textfile 3
-This is line 4.
->>>>>>> a8747e8c2d71ed5accf16b7d634f851d0fd2d971

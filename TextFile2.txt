@@ -1,3 +1,0 @@
-This is another file.
-Created for testing purpose.
-Doing practice of pulling and pushing.
